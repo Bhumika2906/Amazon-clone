@@ -179,6 +179,9 @@ margin-right: 20px;
 .box-content a:hover{
     text-decoration: underline;
 }
+.box-content h2{
+    font-size:1.2rem:
+}
 
 
 /*footer*/
